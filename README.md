@@ -18,7 +18,7 @@ I like building things and solving problems, particularly in the space of using 
   `Express`, `Prisma`, `Typescript`, `React`, `Redux`, `PostgreSQL`, `TailwindCSS`
 
 - **[PeerPrep](https://github.com/CS3219-AY2324S1/ay2324s1-course-assessment-g17)** &nbsp; 💻 \
-  <i>A mock technical interview platform built with using microservice architecure. Worked on developing the real-time collaborative code editor, integrating a code executor, GitHub OAuth, as well as a real-time interative collaborative whiteboard.</i>\
+  <i>A mock technical interview platform built with using microservice architecture. Worked on developing the real-time collaborative code editor, integrating a code executor, GitHub OAuth, as well as a real-time interactive collaborative whiteboard.</i>\
   [Developed for CS3219: Software Engineering Principles and Patterns at NUS]\
   `TypeScript`, `React`, `Redux`, `Express`, `MongoDB`, `Prisma`, `Socket.io`, `Docker`
 
