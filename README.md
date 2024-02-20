@@ -2,7 +2,7 @@
 
 I'm Chloe, a Year 3 Computer Science student at NUS.
 
-I like building things and solving problems, particularly in the space of using tech for social good. I work mostly on web development projects, with the aim of building user-centric apps designed with people in mind, for people.
+I like building things and solving problems, particularly in the space of using tech for social good. I work mostly on web development projects, with the aim of building user-centric apps designed with people in mind, for people :)
 
 ---
 
@@ -19,7 +19,7 @@ I like building things and solving problems, particularly in the space of using 
 
 - **[PeerPrep](https://github.com/CS3219-AY2324S1/ay2324s1-course-assessment-g17)** &nbsp; 💻 \
   <i>A mock technical interview platform built with using microservice architecure. Worked on developing the real-time collaborative code editor, integrating a code executor, GitHub OAuth, as well as a real-time interative collaborative whiteboard.</i>\
-  [Developed for CS3219: Software Engineering Principles and Pattern at NUS]\
+  [Developed for CS3219: Software Engineering Principles and Patterns at NUS]\
   `TypeScript`, `React`, `Redux`, `Express`, `MongoDB`, `Prisma`, `Socket.io`, `Docker`
 
 - **[Stupid MRT](https://github.com/chloeelim/longestmrt)** &nbsp; 🚇\
